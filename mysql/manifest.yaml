@@ -24,4 +24,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vidhyasai727/mysql:1.0
+        image: vidhyasai727/mysql:1.0.0
